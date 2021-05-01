@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Ranjan</h1>
 <h3 align="center">An aspiring full stack developer</h3>
+I am an aspiring full stack developer residing in Bihar, India. I am currently learning full stack web development at Masai School. More than just coding, I am passionate about building applications and solving real world problems.
 
 - 🌱 I’m currently learning **MERN Stack**
 
