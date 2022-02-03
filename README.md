@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohan Ranjan</h1>
 <h3 align="center">Software Development Engineer (Frontend)</h3>
-I am an aspiring full stack developer residing in Bihar, India. More than just coding, I am passionate about building applications, solving real world problems and learn new technologies.
+I am a Software Developer residing in Bihar, India. More than just coding, I am passionate about building applications, solving real world problems and learn new technologies.
 
 - 🌱 I’m currently working as **Software Development Engineer (Frontend) AJIO**
 
