@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Ranjan</h1>
-<h3 align="center">An aspiring full stack developer</h3>
-I am an aspiring full stack developer residing in Bihar, India. I am currently learning full stack web development at Masai School. More than just coding, I am passionate about building applications and solving real world problems.
+<h3 align="center">Software Development Engineer (Frontend)</h3>
+I am an aspiring full stack developer residing in Bihar, India. More than just coding, I am passionate about building applications, solving real world problems and learn new technologies.
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as **Software Development Engineer (Frontend) AJIO**
 
 - 👨‍💻 All of my projects are available at [https://rohanranjanportfolio.netlify.app/](https://rohanranjanportfolio.netlify.app/)
 
