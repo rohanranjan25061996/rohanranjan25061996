@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rohan Ranjan</h1>
-<h3 align="center">Software Development Engineer (Frontend)</h3>
-I am a Software Developer residing in Bihar, India. More than just coding, I am passionate about building applications, solving real world problems and learn new technologies.
+<h3 align="center">FullStack Developer</h3>
+I am a FullStack Developer residing in Bihar, India. More than just coding, I am passionate about building applications, solving real world problems and learn new technologies.
 
-- 🌱 I’m currently working as **Software Development Engineer (Frontend) AJIO**
+- 🌱 I’m currently working as **FullStack Developer EoT Labs**
 
 - 👨‍💻 All of my projects are available at [https://rohanranjanportfolio.netlify.app/](https://rohanranjanportfolio.netlify.app/)
 
