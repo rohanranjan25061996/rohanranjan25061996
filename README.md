@@ -2,7 +2,7 @@
 <h3 align="center">FullStack Developer</h3>
 I am a FullStack Developer residing in Bihar, India. More than just coding, I am passionate about building applications, solving real world problems and learn new technologies.
 
-- 🌱 I’m currently working as **FullStack Developer EoT Labs**
+- 🌱 I’m currently working as **FullStack Developer**
 
 - 👨‍💻 All of my projects are available at [https://rohanranjanportfolio.netlify.app/](https://rohanranjanportfolio.netlify.app/)
 
